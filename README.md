@@ -119,7 +119,7 @@ SHA-256：
 
 - [GKD](https://gkd.li/)：选择器引擎与订阅生态
 - 李跳跳规则：社区整理
-- 订阅作者：aoguai、kunjinkao、adpro、aisouler、ganlinte、lisrain 等
+- 订阅作者：aoguai、kunjinkao、adpro、aisouler、ganlinte、lisrain 等 
 
 规则版权归各作者，本项目仅做规则执行。
 
