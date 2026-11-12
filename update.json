@@ -1,8 +1,7 @@
-
 {
-  "versionCode": 75,
-  "versionName": "3.9.2",
-  "url": "https://raw.githubusercontent.com/YYDS8008/LightSkip-Update/main/LightSkip-3.9.2.apk",
-  "changelog": "1. 规则组跨订阅合并\n2. 支付/通话/转发/下载/功能面板整页保护\n3. 英文界面第一批",
-  "sha256": "FF918000A3EC46267AB54EE6600C8B20007FE30DB6BAF3465CA0E7ECB1F158D6"
+  "versionCode": 78,
+  "versionName": "3.9.5",
+  "url": "https://raw.githubusercontent.com/YYDS8008/LightSkip-Update/main/LightSkip-3.9.4.apk",
+  "changelog": "1. 按规则组拦截弹窗/关闭\n2. 微信长按菜单不再被关\n3. 更新地址内置",
+  "sha256": "644452697F1FCFA014B983EFBB0887FC4719997C361F5347A57C638ACE1F0B51"
 }
