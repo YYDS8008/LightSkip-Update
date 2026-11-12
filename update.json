@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "3.10.0",
-  "url": "https://raw.githubusercontent.com/YYDS8008/LightSkip-Update/main/LightSkip-3.10.0.apk",
-  "changelog": "1. 英文第二批\n2. 系统应用名英文化\n3. 切换语言保留当前页面\n4. 长按菜单 6 秒静默",
-  "sha256": "2BE7AE5EEC4620D69880DBFC33D5A56114E216505C5210E60B082F18AE071DFB"
+  "versionCode": 84,
+  "versionName": "3.10.1",
+  "url": "https://cdn.jsdelivr.net/gh/YYDS8008/LightSkip-Update@main/LightSkip-3.10.1.apk",
+  "changelog": "1. 英文第二批\n2. 系统应用名英文化\n3. 切换语言保留页面\n4. 更新下载走 jsDelivr",
+  "sha256": "CFBB503CC9374127E5BAFC7F38CC1D2B6D357E673D5EF230E66161C4A5840C88"
 }
