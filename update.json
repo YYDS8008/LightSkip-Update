@@ -1,7 +1,7 @@
 {
-  "versionCode": 86,
-  "versionName": "3.10.3",
-  "url": "https://cdn.jsdelivr.net/gh/YYDS8008/LightSkip-Update@main/LightSkip-3.10.3.apk",
-  "changelog": "1. 修复长按菜单被拦截（补上长按/触摸事件订阅）\n2. 英文第二批\n3. 系统应用名英文化\n4. 更新下载走 jsDelivr",
-  "sha256": "66749C4C85417BAC0934D8960D020E4DDA0C2B2D89BFF40C6DFF25B1520D693B"
+  "versionCode": 88,
+  "versionName": "3.10.5",
+  "url": "https://cdn.jsdelivr.net/gh/YYDS8008/LightSkip-Update@main/LightSkip-3.10.5.apk",
+  "changelog": "1. 系统应用名统一解析，不再显示包名\n2. 修复微信长按菜单被拦截（订阅长按/触摸事件）\n3. 关掉弹窗开关后非开屏页面完全不处理\n4. 英文第二批 + 系统应用名英文化\n5. 更新下载改走 jsDelivr",
+  "sha256": "3059A5993B2076C2CC4BE35BC0A269234058FB4B8E5660DA39571B9C4A80F510"
 }
