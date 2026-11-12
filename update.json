@@ -1,1 +1,8 @@
 
+{
+  "versionCode": 75,
+  "versionName": "3.9.2",
+  "url": "https://raw.githubusercontent.com/YYDS8008/LightSkip-Update/main/LightSkip-3.9.2.apk",
+  "changelog": "1. 规则组跨订阅合并\n2. 支付/通话/转发/下载/功能面板整页保护\n3. 英文界面第一批",
+  "sha256": "FF918000A3EC46267AB54EE6600C8B20007FE30DB6BAF3465CA0E7ECB1F158D6"
+}
